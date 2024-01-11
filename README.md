@@ -1,2 +1,2 @@
 # estudos-javascript
- Repositório para os estudos sobre a tecnologia JavaScript
+ Repositório para os estudos sobre a tecnologia JavaScript.
